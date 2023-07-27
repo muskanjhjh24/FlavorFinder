@@ -1,6 +1,6 @@
 # FlavorFinder - Recipe App
 
-![DishDiscovery Logo](https://yourdomain.com/path/to/logo.png)
+
 
 ## Overview
 
@@ -14,10 +14,6 @@ DishDiscovery is a web application that allows users to explore and discover var
 - **View Recipe**: Users can view the complete recipe instructions with a single click.
 - **Hide Recipe**: The option to hide the recipe helps declutter the interface for users who only want to see the dish details initially.
 
-## Screenshots
-
-![Screenshot 1](https://yourdomain.com/path/to/screenshot1.png)
-![Screenshot 2](https://yourdomain.com/path/to/screenshot2.png)
 
 ## Tech Stack
 
@@ -30,7 +26,7 @@ The Recipe App is built using the following technologies:
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/dishdiscovery.git`
+1. Clone the repository.
 2. Open the project folder and navigate to the `index.html` file.
 3. Double-click the `index.html` file to open it in your web browser.
 4. Enter the name of the dish you want to search for in the input field.
