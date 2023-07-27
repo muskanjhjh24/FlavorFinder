@@ -1,4 +1,4 @@
-# DishDiscovery - Recipe App
+# FlavorFinder - Recipe App
 
 ![DishDiscovery Logo](https://yourdomain.com/path/to/logo.png)
 
@@ -40,7 +40,4 @@ The Recipe App is built using the following technologies:
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
